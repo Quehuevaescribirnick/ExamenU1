@@ -1,0 +1,16 @@
+body{
+    background-image: url(../Recursos/Recruso01.jpg);
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    text-align: center;
+}
+h1{
+    padding-top: 22%;
+    font-size: 75px;
+}
+h3{
+
+    font-size: 35px;
+    font-weight: lighter;
+    line-height: 0;
+}
